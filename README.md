@@ -31,6 +31,9 @@ Siga a sequência de passos abaixo para completar o experimento:
     -   **Com IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
     -   **Sem IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
 
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/00492f6e-ec2c-4144-b6f6-9d8aa2cc5bc8" />
+
+
 ## 🃏 O Exercício: Blackjack Simplificado
 
 O desafio consiste em implementar um pequeno sistema em **Java**, utilizando **Programação Orientada a Objetos**, que simula uma versão simplificada do jogo Blackjack (21). O objetivo é **comparar duas mãos de cartas** (Jogador e Banca) e determinar o vencedor da rodada.
