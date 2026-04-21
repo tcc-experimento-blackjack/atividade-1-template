@@ -39,15 +39,13 @@ O desafio consiste em implementar um pequeno sistema em **Java**, utilizando **P
 
 O Blackjack é um jogo de cartas onde o objetivo é alcançar uma pontuação **o mais próxima possível de 21**, sem ultrapassá-lo. Neste experimento, teremos um **Jogador** e uma **Banca**, cada um com uma mão de cartas. A pontuação da mão é a soma dos valores das cartas.
 
-#### Valor das Cartas
+### 🃏 Valor das Cartas
 
-| Carta    | Valor Numérico |
-| :------- | :------------- |
-| 2 a 10   | Valor da carta |
-| J (Valete) | 10             |
-| Q (Dama)   | 10             |
-| K (Rei)    | 10             |
-| A (Ás)     | 1              |
+| Carta | Valor |
+| :---- | :---- |
+| **2 a 10** | Valor numérico da carta |
+| **J, Q, K** | 10 pontos cada |
+| **A (Ás)** | 11 pontos (ou 1, se a mão estourar) |
 
 #### Representação das Cartas
 
