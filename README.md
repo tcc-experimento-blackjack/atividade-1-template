@@ -1,3 +1,5 @@
+Digite seu nome: 
+
 # ♠️ Experimento Acadêmico: Blackjack Simplificado
 
 Este repositório contém um projeto de **Blackjack Simplificado**, desenvolvido como parte de um **experimento acadêmico** para um Trabalho de Conclusão de Curso (TCC) em Engenharia de Software.
