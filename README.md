@@ -24,12 +24,12 @@ Siga a sequência de passos abaixo para completar o experimento:
 
 1.  **Diagrama de Classes (UML)**: Modele as classes do sistema com base no problema proposto.
 2.  **Formulário Intermediário**: Registre suas percepções sobre a modelagem. 
-    -   **Com IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
-    -   **Sem IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
+    -   **Com IA**: https://forms.office.com/r/v7ZQL6R2yT
+    -   **Sem IA**: https://forms.office.com/r/ydYjpBvSP6
 3.  **Implementação do Código**: Desenvolva a solução em Java utilizando Programação Orientada a Objetos.
 4.  **Formulário Final**: Avalie sua experiência, dificuldades e estratégias. 
-    -   **Com IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
-    -   **Sem IA**: [https://forms.office.com/r/V94RNRD5ec](https://forms.office.com/r/V94RNRD5ec)
+    -   **Com IA**: https://forms.office.com/r/v7ZQL6R2yT
+    -   **Sem IA**: https://forms.office.com/r/ydYjpBvSP6
 
 <img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/00492f6e-ec2c-4144-b6f6-9d8aa2cc5bc8" />
 
